@@ -234,6 +234,5 @@ The analysis has certain limitations depending on the available dataset.
 - The analysis identifies relationships and patterns in the available data but does not necessarily establish causation.
 - Recommendations are based on the information available within the dataset.
 
-  ## GitHub Repository Link: https://github.com/Mahanand4/Financial_Dashboard_Creation/edit/main/README.md
-
+  ## GitHub Repository Link: https://github.com/Mahanand4/Financial_Dashboard_Creation
   
