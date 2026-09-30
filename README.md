@@ -214,7 +214,7 @@ Based on the findings, management can consider the following actions:
 - Prioritize actions based on the financial impact identified through the analysis.
 - Continue monitoring the identified KPIs to evaluate whether business performance improves after corrective actions.
 
-  ## Technical Highlights
+## Technical Highlights
 
 Power BI
 Power Query
