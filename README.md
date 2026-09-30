@@ -6,8 +6,6 @@ This project focuses on creating an interactive financial dashboard using Power 
 The dashboard was developed to transform raw financial data into an interactive reporting solution that helps users understand key performance indicators, revenue and profit trends, financial performance across different categories, and areas requiring management attention.
 The project demonstrates the complete data analysis workflow, including data preparation, transformation, data modelling, DAX calculations, KPI development, dashboard design, interactive filtering, analysis, and business recommendations.
 
----
-
 ## Project Objective
 
 The primary objective of this project is to analyze financial performance and create an interactive Power BI dashboard that supports data-driven business decision-making.
@@ -23,8 +21,6 @@ The analysis focuses on:
 - Providing actionable insights for management
 - Presenting the analysis through an interactive Power BI dashboard
 
----
-
 ## Business Problem
 
 Businesses need a clear and interactive way to monitor financial performance and identify the factors affecting revenue and profitability.
@@ -37,8 +33,6 @@ Businesses need a clear and interactive way to monitor financial performance and
 - Which factors have the greatest impact on financial results
 
 This project addresses these challenges by converting the available financial data into an interactive Power BI dashboard.
-
----
 
 ## Dataset
 
@@ -56,8 +50,6 @@ The dataset includes relevant financial and business attributes used for analysi
 - Other relevant financial attributes
 
 The dataset was prepared and transformed before being used for analysis and dashboard development.
-
----
 
 ## Business Questions
 
@@ -85,8 +77,6 @@ The analysis was designed to answer the following business questions:
 
 11. What actions can be taken to improve financial performance?
 
----
-
 ## Tools and Technologies
 
 The following tools and technologies were used in this project:
@@ -98,12 +88,9 @@ The following tools and technologies were used in this project:
 - Data Visualization
 - Excel / CSV data, where applicable
 
----
-
 ## Data Preparation
 
 The raw data was prepared before performing the analysis.
-
 The data preparation process included:
 
 - Importing the dataset into Power BI
@@ -118,8 +105,6 @@ The data preparation process included:
 
 Power Query was used to perform the required data transformation and cleaning activities.
 
----
-
 ## Data Modelling
 
 A suitable data model was created in Power BI to support analysis and reporting.
@@ -132,8 +117,6 @@ The modelling process included:
 - Ensuring the model supports efficient analysis
 - Creating a logical structure for financial reporting
 - Checking relationships and filter flow
-
-
 
 ## Methodology
 
@@ -170,8 +153,6 @@ Evaluated how the findings could affect financial performance and business decis
 ### 8. Recommendations
 
 Provided business recommendations based on the findings.
-
----
 
 ## DAX Calculations
 
@@ -253,6 +234,6 @@ The analysis has certain limitations depending on the available dataset.
 - The analysis identifies relationships and patterns in the available data but does not necessarily establish causation.
 - Recommendations are based on the information available within the dataset.
 
-  # GitHub Repository Link: https://github.com/Mahanand4/Financial_Dashboard_Creation/edit/main/README.md
+  ## GitHub Repository Link: https://github.com/Mahanand4/Financial_Dashboard_Creation/edit/main/README.md
 
   
